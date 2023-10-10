@@ -1,0 +1,3 @@
+resources:
+- policy-sets/acm-app-backup-policy-set.yaml
+- policy-sets/acm-app-restore-policy-set.yaml
